@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://hacozeimu.niek.sh/sitemap.xml
